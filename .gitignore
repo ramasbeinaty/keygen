@@ -1,0 +1,8 @@
+.env
+keygen
+ambassadors_with_urls.csv
+ambassadors.csv
+generated_urls.csv
+
+__pycache__/
+.vscode/
